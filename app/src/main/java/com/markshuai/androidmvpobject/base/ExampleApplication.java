@@ -6,7 +6,7 @@ import android.app.Application;
  * 作者：MarkShuai
  * 时间：2017/12/19 15:29
  * 邮箱：MarkShuai@163.com
- * 意图：
+ * 意图：Application
  */
 
 public class ExampleApplication extends Application {
