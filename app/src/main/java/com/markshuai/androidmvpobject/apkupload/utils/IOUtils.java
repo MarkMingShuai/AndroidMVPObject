@@ -11,7 +11,7 @@ import java.io.IOException;
  * 作者：MarkShuai on
  * 时间：2017/11/21 16:15
  * 邮箱：mark_mingshuai@163.com
- * 意图：IO工具类123
+ * 意图：IO工具类12345645
  */
 
 public class IOUtils {
