@@ -8,6 +8,4 @@ package com.markshuai.androidmvpobject.apkupload.utils;
  */
 
 public class Test {
-
-
 }
