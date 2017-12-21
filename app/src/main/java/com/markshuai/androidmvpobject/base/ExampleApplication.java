@@ -10,6 +10,8 @@ import android.app.Application;
  */
 
 public class ExampleApplication extends Application {
+
+
     public static ExampleApplication exampleApplication;
 
     @Override
