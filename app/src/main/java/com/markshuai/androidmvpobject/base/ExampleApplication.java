@@ -11,7 +11,7 @@ import android.app.Application;
 
 public class ExampleApplication extends Application {
 
-
+    //全局的
     public static ExampleApplication exampleApplication;
 
     @Override
